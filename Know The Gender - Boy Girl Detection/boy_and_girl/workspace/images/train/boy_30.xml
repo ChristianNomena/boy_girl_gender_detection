@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boys</folder>
+	<filename>boy_30.jpg</filename>
+	<path>C:\Users\Christian\PycharmProjects\ImageClassificationTensorflow\boys\boy_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BOY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>387</ymin>
+			<xmax>740</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>

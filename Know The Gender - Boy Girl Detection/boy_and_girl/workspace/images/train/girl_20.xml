@@ -1,0 +1,26 @@
+<annotation>
+	<folder>girls</folder>
+	<filename>girl_20.png</filename>
+	<path>C:\Users\Christian\PycharmProjects\ImageClassificationTensorflow\girls\girl_20.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>538</width>
+		<height>522</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GIRL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>135</ymin>
+			<xmax>344</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
